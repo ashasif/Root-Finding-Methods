@@ -8,7 +8,7 @@ c=[]
 
 def y(x):
 
-    return  (x**2-5*x+4)
+    return  (x**2-5*x-6)
     #  return x**3-x**2-26*x-24
 
     #  return x*(sin(3*x)- 3*sin(3*x)
