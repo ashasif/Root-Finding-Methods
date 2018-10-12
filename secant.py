@@ -36,13 +36,13 @@ for i in range (-20,21):
     #print('steps are',count)
 
     a.append(i)
-    b.append(y)
+    b.append(x2)
     c.append(count)
 
 print('a[]=',a)
 print('b[]=',b)
 print(c)
-#
+
 plt.plot(a,b)
 plt.show()
 plt.plot(a,c)
